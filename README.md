@@ -1,2 +1,2 @@
-# Odin_Project
+# BBQ-recipes
 Hello bbq
